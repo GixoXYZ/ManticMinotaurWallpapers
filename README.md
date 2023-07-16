@@ -32,6 +32,8 @@ My submissions for the Ubuntu 23.10 (Mantic Minotaur) wallpaper competition.
 
 ![](Previews/horns-variants.png)
 
+![](Previews/horns-mantic-variants.png)
+
 ### Hardware
 
 ![](Previews/65xe-variants.png)
